@@ -1,11 +1,3 @@
-#### React Router Fix
+Simple React APP with Hooks fetching data.
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
-
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
-
-```
+Inspired by John Smilga's React Projects
